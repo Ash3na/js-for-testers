@@ -1,2 +1,17 @@
 # Dependency directories
 node_modules/
+
+# vscode config
+.vscode
+
+# dummy JS in root to test ideas
+test.js
+
+# mochawesome reports
+mochawesome-report/
+
+#  istanbul code coverage 
+.nyc_output/
+coverage
+
+
